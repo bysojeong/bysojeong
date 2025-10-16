@@ -6,7 +6,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20&fontSize=40&animation=fadeIn)
 
-  ### Hi there 👋
+## 안녕하세요! bysojeong입니다 😎
+<hr>
+### 일상의 결을 시각으로 담아내는 걸 좋아합니다
 
   #### 😄 연락 : <a href="#"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
